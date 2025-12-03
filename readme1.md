@@ -222,13 +222,8 @@ streamlit run Experiments/main\ pipeline/streamlit_deployment.py
 
 ## Future Improvements
 
-🚀 Threat cohort clustering
-🔐 Integration with production SIEM tools
-⚡ GPU-optimized inference pipelines
-🛰 Active monitoring with periodic retraining
-
----
-
-## Contributors
-**Gourab Mahato**
-📧 [gourabmahato09@gmail.com](mailto:gourabmahato09@gmail.com)
+- Threat cohort clustering
+- Integration with production SIEM tools
+- GPU-optimized inference pipelines
+- Active monitoring with periodic retraining and adaptive learning to new threats
+- A security Co-pilot for SOC Analysts; Results along with a explanatory table mapping to Threat Knowledge Bases(ATT&CK, CAPEC, CWE, CVE).
